@@ -33,10 +33,6 @@ Install required libraries using pip:
 ```
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 ## 🏗️ Project Structure
 The application follows a step-by-step modular approach:
 
@@ -63,18 +59,19 @@ The application follows a step-by-step modular approach:
  - Dropdowns for selecting transformations
 
  - Hoverable buttons for visual feedback
+   
 ## 📸 GUI Overview
-
 
 The GUI is built using Tkinter and includes:
 
  - A canvas to preview images
 
-  -Buttons to Load, Save, Crop, and Exit
+ - Buttons to Load, Save, Crop, and Exit
 
  - Dropdowns and sliders to apply transformations
 
  - Live image updates on every interaction
+   
 ## 🧪 Running the App
 
 Ensure you have Python installed. Then run:
@@ -91,6 +88,7 @@ This will launch the desktop application with editing tools.
  - Save formats supported include .png, .jpg, etc.
 
  - Files are saved to the location you choose.
+   
 ## 📌 Conclusion
 
 You now have a fully functional Image Editor App built in Python. It can be extended with additional filters, animations, or integrations like cloud storage or social media APIs.
